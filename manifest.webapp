@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "import-export",
-  "name": "Import/Export",
+  "short_name": "import-export-pro",
+  "name": "Import/Export Pro",
   "description": "",
   "version": "1.5.20",
   "core_app": true,

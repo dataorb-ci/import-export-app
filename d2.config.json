@@ -1,7 +1,7 @@
 {
   "type": "app",
-  "name": "import-export",
-  "title": "Import/Export",
+  "name": "import-export-pro",
+  "title": "Import/Export Pro",
   "coreApp": true,
   "version": "1.5.20",
   "description": ""
